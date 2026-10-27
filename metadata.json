@@ -1,0 +1,6 @@
+{
+  "name": "KuliahKu - Manajemen Jadwal & Tugas Mahasiswa",
+  "description": "Aplikasi produktivitas mahasiswa cerdas untuk mengelola jadwal kuliah, memantau tugas harian dengan visualisasi grafik, pengingat pintar, integrasi kalender, dan sistem poin motivasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
